@@ -13,7 +13,7 @@ Muestra los detalles del usuario, incluyendo su nombre, imagen de perfil y descr
 - Clona este repositorio en tu máquina local.
 - Ejecuta el comando npm install para instalar las dependencias.
 - Ejecuta el comando npm start para iniciar la aplicación.
-- En el formulario de búsqueda, ingresa el nombre de usuario de GitHub que deseas buscar y haz clic en el botón "Buscar".
+- En el formulario de búsqueda, ingresa el nombre de usuario de GitHub que deseas buscar y haz clic en la tecla ENTER o el Boton de busqueda.
 - Los detalles del usuario aparecerán en la pantalla.
 
 ## Capturas de Pantalla
